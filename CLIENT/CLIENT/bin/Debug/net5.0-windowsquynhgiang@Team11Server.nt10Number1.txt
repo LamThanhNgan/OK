@@ -1,0 +1,6 @@
+ 
+Date: 6/29/2021 12:06:59 AM
+From: POP3server@Team11Server.nt106
+To: quynhgiang@Team11Server.nt106
+Subject: Welcome to the MyPOP3server
+Content: Welcome to MyPOP3server!  Your email administrator has created this POP3server email account for you
