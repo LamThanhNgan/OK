@@ -1,0 +1,102 @@
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.exe
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.deps.json
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.json
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ref\ServerPOP3.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.pdb
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ref\ServerPOP3.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.pdb
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.Form1.resources
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\SUBJECTS\MANG-MAY-TINH\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CopyComplete
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.exe
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.deps.json
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.json
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.dev.json
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ref\ServerPOP3.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.pdb
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csprojAssemblyReference.cache
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.Form1.resources
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.GenerateResource.cache
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfoInputs.cache
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfo.cs
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CoreCompileInputs.cache
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CopyComplete
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ref\ServerPOP3.dll
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.pdb
+D:\Study\Ltm\Đồ án\code\code\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.genruntimeconfig.cache
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.exe
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.deps.json
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.json
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.dev.json
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ref\ServerPOP3.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.pdb
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csprojAssemblyReference.cache
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.Form1.resources
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.Properties.Resources.resources
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.GenerateResource.cache
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfoInputs.cache
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfo.cs
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CoreCompileInputs.cache
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CopyComplete
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ref\ServerPOP3.dll
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.pdb
+D:\Study\Ltm\Project\code\code\POP3-OFFICAL\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.exe
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.deps.json
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.json
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ref\ServerPOP3.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\ServerPOP3.pdb
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.Form1.resources
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.Properties.Resources.resources
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.csproj.CopyComplete
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ref\ServerPOP3.dll
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.pdb
+C:\Users\ASUS\Downloads\POP3-OFFICAL\ServerPOP3\ServerPOP3\obj\Debug\net5.0-windows\ServerPOP3.genruntimeconfig.cache
